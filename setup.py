@@ -11,7 +11,7 @@ setup(
 
     ],
 
-    author='Sultan Alkhamshi, Atif Alanazi, Anas Altalhi',
+    author='Sultan, Atif, Anas',
     author_email='4020077@upm.edu.sa, 4211596@upm.edu.sa, 4211594@upm.edu.sa',
     description='In the rapidly evolving world of software development, maintaining code quality and security is paramount.'
                 ' This project, Identifying Suspicious Code via ProgramAnalysis,'
